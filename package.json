@@ -1,6 +1,6 @@
 {
   "name": "deferred-bounce",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Deferred call reject function by timeout if resolve function was not called.",
   "main": "index.js",
   "scripts": {
