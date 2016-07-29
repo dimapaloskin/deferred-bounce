@@ -30,10 +30,10 @@
 ```
 
 ## Arguments
-- resolveFunction - function which will be called if deferred instance will called
-- rejectFunction - function which will be called after expiration of delay and if deferred instance will not called
-- scope - (optional) - bind scope to resolve and reject functions
-- delay - timeout
+- `resolveFunction` - function which will be called if deferred instance will called
+- `rejectFunction` - function which will be called after expiration of delay and if deferred instance will not called
+- `scope` - (optional) - bind scope to resolve and reject functions
+- `delay` - timeout
 
 ## Examples
 
