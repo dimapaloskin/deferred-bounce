@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-  npm i deferred-bounce
+  npm i --save deferred-bounce
 ```
 
 ## Usage
