@@ -1,0 +1,33 @@
+{
+  "name": "deferred-bounce",
+  "version": "0.0.1",
+  "description": "Deferred call reject function by timeout if resolve function was not called.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/babel-cli/bin/babel.js src/ -d ./ && ./node_modules/mocha/bin/mocha test.js"
+  },
+  "author": {
+    "name": "Dmitry Pavlovsky",
+    "email": "dima@paloskin.me",
+    "url": "http://paloskin.me"
+  },
+  "repository": "dimapaloskin/deferred-bounce",
+  "engines": {
+    "node": ">=5.1"
+  },
+  "keywords": [
+    "deferred",
+    "bound",
+    "resolve",
+    "reject",
+    "timeout"
+  ],
+  "license": "WTFPL",
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-core": "^6.11.4",
+    "babel-preset-es2015": "^6.9.0",
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
