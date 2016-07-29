@@ -1,4 +1,4 @@
-# deferred-bounce
+# deferred-bounce [![Build Status](https://travis-ci.org/dimapaloskin/deferred-bounce.svg?branch=master)](https://travis-ci.org/dimapaloskin/deferred-bounce)
 
 > Call reject-function after expiration of timeout if resolve-function was not called.
 
